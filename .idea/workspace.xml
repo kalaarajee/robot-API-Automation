@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2fedc664-bd7d-451d-8785-33dd70c49377" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/TC_005_Start_close_brwoser.robot" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC_005_Start_close_brwoser.robot" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
